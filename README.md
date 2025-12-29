@@ -1,2 +1,2 @@
-# MAPPERR_Hardware
-Hardware associated with the MAPPERR ice-penetrating radar
+# MAPPERR Hardware
+Hardware designs and information associated with the MAPPERR ice-penetrating radar
