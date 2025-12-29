@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,Supplier,Supplier Part Number
+0,"0X4A, 0X4B, 0X48, 0X49",Resistor_SMD:R_0603_1608Metric,LCSC,C209218
+6.8u,"C1, C3",Capacitor_SMD:C_1812_4532Metric,LCSC,C342619
+100n,C2,Capacitor_SMD:C_0603_1608Metric,LCSC,C14663
+1n,"C5, C6",Capacitor_SMD:C_1206_3216Metric,LCSC,C23631
+Conn_01x04,"J2, J3",Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,LCSC,C160404
+10.7k,R1,Resistor_SMD:R_0603_1608Metric,LCSC,C22857
+2.2k,"R2, R3",Resistor_SMD:R_0603_1608Metric,LCSC,C4190
+5.1k,R4,Resistor_SMD:R_0603_1608Metric,LCSC,C23186
+TMP117,U1,Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,LCSC,C699536
